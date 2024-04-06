@@ -1,0 +1,24 @@
+.travel-item{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    font-family: Roboto;
+    background-color: #fff;
+    padding: 10px;
+}
+.image{
+    width: 480px;
+    height: 250px;
+}
+.name{
+    color: #475569;
+    font-size: 25px;
+}
+.description{
+    color: #64748b;
+    font-size: 18px;
+}
